@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @fitryaniaida, a web developer with 5 years experience with JavaScript and PHP.
+- I use frameworks such as Laravel, React JS and Next JS for work.
+- 📫 You can reach me on fitryani.aida@gmail.com
